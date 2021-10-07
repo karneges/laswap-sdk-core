@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14d51f68-8fe4-470b-ae5b-44ccc62291e3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/constants.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dist/constants.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/sdk-core.cjs.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/sdk-core.cjs.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/sdk-core.cjs.development.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/sdk-core.cjs.development.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/sdk-core.cjs.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/sdk-core.cjs.production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/sdk-core.cjs.production.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/sdk-core.cjs.production.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/sdk-core.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/sdk-core.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/sdk-core.esm.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/sdk-core.esm.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/constants.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entities/token.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/token.ts" afterDir="false" />
     </list>
@@ -21,6 +29,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1632953099" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="sdk-core3.0.1-alpha1" />
                     <option name="lastUsedInstant" value="1632952399" />
@@ -73,7 +85,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632951922805</updated>
-      <workItem from="1632951924226" duration="543000" />
+      <workItem from="1632951924226" duration="1188000" />
+      <workItem from="1632986727013" duration="594000" />
+      <workItem from="1632996447324" duration="129000" />
+      <workItem from="1633590761749" duration="19000" />
+      <workItem from="1633597452726" duration="7000" />
+      <workItem from="1633597480537" duration="28000" />
+      <workItem from="1633597511188" duration="990000" />
+      <workItem from="1633598863143" duration="10000" />
     </task>
     <servers />
   </component>
@@ -90,5 +109,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
